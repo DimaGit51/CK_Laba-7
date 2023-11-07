@@ -1,0 +1,105 @@
+body{
+    background: #f4f4f4;
+}
+.background-color-col{
+    background-color: white;
+    margin-top: 10px;
+}
+.text-color-one{
+    color: black;
+}
+.img-avatarka-setting{
+    text-align: center;
+}
+.img-avatarka{
+    height: 450px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.person{
+    color: #767676;
+}
+.card-indent{
+    display: block;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-border{
+    border-width: 5px;
+}
+
+
+.info{
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+hr{
+    color: #2400ff;
+    height: 5px;
+    background-color: blue;
+}
+.nav-settings{
+    background-color: black;
+}
+
+.gradient-header-btn{
+    background: linear-gradient(to right,#8506d5, #387cf4);
+}
+#carouselExampleCaptions .carousel-item img{
+    object-fit: cover;
+    object-position: center;
+    height: 70vh;
+    overflow: hidden;
+}
+.cardholder{
+    margin: 20px;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.card{
+    color: white;
+    background: linear-gradient(to right,#8506d5, #387cf4);
+}
+.card-link{
+    display:block;
+    width:100px;
+    height:30px;
+    border-radius: 5px;
+    margin-left: auto;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: #f3cb1a;
+}
+
+.collapse-setting{
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.collapse-vidjet{
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.kinopoisk-img{
+    border: 1px solid rgb(0, 0, 0);}
+.kinopoisk{
+    background: linear-gradient(to right,#ff5500, #c4e800);
+}
+p{
+    text-align:justify;
+}
+.fixed-menu{
+    position: fixed;
+    bottom: 0;
+    opacity: 0.7; 
+    font-size: 15px;
+}
